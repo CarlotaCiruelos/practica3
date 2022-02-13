@@ -1,6 +1,6 @@
 # Practica3
 ## Introducción: 
-La finalidad de esta práctica es crear un web usando css mediante elementos BootStrap. 
+La finalidad de esta práctica es crear una web usando css mediante elementos BootStrap. 
 Para ello he creado una página de Meliá con varias páginas interconectadas. 
 La principal, una sobre trabajar con ellos (que es un formulario) y una tercera con información extra. 
 ## Elementos empleados:
